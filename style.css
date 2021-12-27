@@ -1,0 +1,596 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+/*----------------------
+ ----- Header section -----
+ ------------------------*/
+
+.header-main-site{
+  width: 100%;
+  height: 720px; 
+}
+
+.nav{
+  width: 100%;
+  height: 120px;
+}
+
+.nav-warpper img{
+  width: 150px;
+  height: 110px;
+  margin: 2px 0px 0px 35px;
+}
+
+
+#nav-mobile li a{
+  font-size: 20px;
+  font-family: sans-serif;
+  color: black;
+  margin: 20px 55px 0px 10px;
+  text-decoration: none;
+}
+
+
+.header-content-side{
+  float: left;
+}
+
+.heading-1 {
+  font-size: 40px;
+  font-family: bold;
+  font-family: sans-serif;
+  margin: 100px 0px 0px 80px;
+}
+
+.about-content{
+  width: 600px;
+  font-size: 20px;
+  margin: 20px 0px 0px 80px;
+}
+
+.header-heading-2{
+  font-size: 25px;
+  font-weight: bold;
+  font-family: sans-serif;
+  margin: 30px 0px 0px 80px;
+}
+
+.header-heading-2:hover{
+  color: blue;
+}
+
+.header-btn{
+  margin: 30px 0px 0px 80px;
+}
+
+.header-images-site{
+ float: left;
+ margin: 5% 0% 0% 15%;
+}
+
+.header-images-site img{
+ max-width: 600px;
+ height: 350px;
+}
+
+.developer-name{
+  font-size: 23px;
+  font-weight: bold;
+  font-family: sans-serif;
+  margin: 5% 0% 0% 43%;
+}
+.on{
+  font-size: 50px;
+  
+}
+
+/*-----------------------------------------
+  --------- Service-main-site ---------
+--------------------------------------------*/
+
+.Service-main-site{
+  width: 100%;
+  height: 800px;
+  border: 1px solid white;
+}
+
+.service-title-heading{
+  font-size: 45px;
+  text-align: center;
+}
+
+.service-content-area{
+  margin-top: 50px;
+  border: 1px solid white;
+}
+
+/* --------- aditto-card-1 ---------*/
+
+.aditto-card{
+  width: 460px;
+  height: 250px;
+  margin: 60px 0px 0px 30px;
+  float: left;
+}
+
+.card-nmb-1 img{
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  position: absolute;
+  margin: 10px 0px 0px 30px;
+}
+
+.aditto-card-title{
+  font-size: 25px;
+  font-family: sans-serif;
+  display: inline-block;
+  margin: 18px 0px 0px 90px;
+}
+
+.service-detalis{
+  width: 450px;
+  font-size: 20px;
+  margin: 18px 0px 0px 39px;
+}
+
+.service-btn-1{
+  margin: 18px 0px 0px 39px;
+}
+
+
+/* --------- aditto-card-2 ---------*/
+
+.aditto-card-2{
+  width: 460px;
+  height: 250px;
+  margin: 60px 0px 0px 30px;
+  float: left;
+}
+
+.card-nmb-2 img{
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  position: absolute;
+  margin: 10px 0px 0px 30px;
+}
+
+.aditto-card-title-2{
+  font-size: 25px;
+  font-family: sans-serif;
+  display: inline-block;
+  margin: 18px 0px 0px 90px;
+}
+
+.service-detalis-2{
+  width: 415px;
+  font-size: 20px;
+  margin: 18px 0px 0px 39px;
+}
+
+.service-btn-2{
+  margin: 18px 0px 0px 39px;
+}
+
+
+
+
+/* --------- aditto-card-3 ---------*/
+
+.aditto-card-3{
+  width: 460px;
+  height: 250px;
+  margin: 60px 0px 0px 30px;
+  float: left;
+}
+
+.card-nmb-3 img{
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  position: absolute;
+  margin: -20px 0px 0px 8px;
+}
+
+.aditto-card-title-3{
+  font-size: 25px;
+  font-family: sans-serif;
+  display: inline-block;
+  margin: 18px 0px 0px 90px;
+}
+
+.service-detalis-3{
+  width: 415px;
+  font-size: 20px;
+  margin: 18px 0px 0px 39px;
+}
+
+.service-btn-3{
+  margin: 18px 0px 0px 39px;
+}
+
+
+
+/* --------- aditto-card-4 ---------*/
+
+.aditto-card-4{
+  width: 460px;
+  height: 250px;
+  margin: 60px 0px 0px 30px;
+  float: left;
+}
+
+.card-nmb-4 img{
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  position: absolute;
+  margin: 10px 0px 0px 40px;
+}
+
+.aditto-card-title-4{
+  font-size: 25px;
+  font-family: sans-serif;
+  display: inline-block;
+  margin: 18px 0px 0px 110px;
+}
+
+.service-detalis-4{
+  width: 415px;
+  font-size: 20px;
+  margin: 18px 0px 0px 39px;
+}
+
+.service-btn-4{
+  margin: 18px 0px 0px 39px;
+}
+
+
+/* --------- aditto-card-5 ---------*/
+
+.aditto-card-5{
+  width: 460px;
+  height: 250px;
+  margin: 60px 0px 0px 30px;
+  float: left;
+}
+
+.card-nmb-5 img{
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  position: absolute;
+  margin: 10px 0px 0px 40px;
+}
+
+.aditto-card-title-5{
+  font-size: 25px;
+  font-family: sans-serif;
+  display: inline-block;
+  margin: 18px 0px 0px 110px;
+}
+
+.service-detalis-5{
+  width: 415px;
+  font-size: 20px;
+  margin: 18px 0px 0px 39px;
+}
+
+.service-btn-5{
+  margin: 18px 0px 0px 39px;
+}
+
+
+
+/* --------- aditto-card-6 ---------*/
+
+.aditto-card-6{
+  width: 460px;
+  height: 250px;
+  margin: 60px 0px 0px 30px;
+  float: left;
+}
+
+.card-nmb-6 img{
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  position: absolute;
+  margin: -13px 0px 0px 10px;
+}
+
+.aditto-card-title-6{
+  font-size: 25px;
+  font-family: sans-serif;
+  display: inline-block;
+  margin: 18px 0px 0px 110px;
+}
+
+.service-detalis-6{
+  width: 415px;
+  font-size: 20px;
+  margin: 18px 0px 0px 39px;
+}
+
+.service-btn-6{
+  margin: 18px 0px 0px 39px;
+}
+
+
+/*-----------------------------------------
+  --------- About-main-site ---------
+--------------------------------------------*/
+
+
+     
+  .about-main-side{
+    width: 100%;
+    height: 800px;
+    border: 1px solid rgb(226, 223, 223);
+  }
+
+  .about-heading-name{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-align: center;
+  }
+
+  .about-first-part{
+    float:left;
+    margin: 70px 0px 0px 40px;
+  }
+
+  .about-section-images{
+    width: 500px;
+    height: 400px;
+
+  }
+
+  .about-secound{
+  float: left;
+  margin: 20px 0px 0px 70px;
+  }
+
+  .about-secound-title{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+  }
+
+  .about-content-detalis{
+    width: 800px;
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+
+
+.Range-name-1{
+  font-size: 25px;
+  font-family: sans-serif;
+
+}
+
+.Range-name-2{
+ font-size: 25px;
+ font-family: sans-serif;
+}
+
+
+.Range-name-3{
+  font-size: 25px;
+  font-family: sans-serif;
+   
+ }
+ 
+ 
+ .Range-name-4{
+  font-size: 25px;
+  font-family: sans-serif;
+   
+ }
+
+.about-name{
+  display: inline-block;
+}
+
+.about-hading-1{
+  width: 280px;
+  height: 45px;
+  font-weight: bold;
+  font-size: 15px;
+  border: 1px solid rgb(214, 200, 200);
+  text-align: center;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  margin: 10px 30px 0px 0px;
+}
+
+
+.about-name-2{
+  display: inline-block;
+}
+
+.about-hading-2{
+  width: 280px;
+  height: 45px;
+  font-weight: bold;
+  font-size: 15px;
+  border: 1px solid rgb(214, 200, 200);
+  text-align: center;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  margin: 10px 30px 0px 0px;
+}
+
+
+
+.about-name-3{
+  display: inline-block;
+}
+
+.about-hading-3{
+  width: 280px;
+  height: 45px;
+  font-weight: bold;
+  font-size: 15px;
+  border: 1px solid rgb(214, 200, 200);
+  text-align: center;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  margin: 10px 30px 0px 0px;
+}
+
+
+.about-name-4{
+  display: inline-block;
+}
+
+.about-hading-4{
+  width: 280px;
+  height: 45px;
+  font-weight: bold;
+  font-size: 15px;
+  border: 1px solid rgb(214, 200, 200);
+  text-align: center;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  margin: 10px 30px 0px 0px;
+}
+
+
+/*-----------------------------------------
+  --------- Contact-main-site ---------
+--------------------------------------------*/
+
+.contact-main-bar{
+  width: 100%;
+  height: 700px;
+  border: 1px solid rgb(250, 246, 246);
+}
+
+
+.contact-heading-title{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-align: center;
+    position: relative;
+    margin-top: 60px;
+}
+
+
+.contact-first-site{
+
+  float: left;
+
+}
+
+.contact-img-bar{
+  width: 500px;
+  height: 500px;
+  margin: 10px 0px 0px 60px;
+}
+
+.contact-secound-site{
+  float: left;
+  margin: 5% 0% 0% 14%;
+}
+
+.contact-input-title-1{
+  font-size: 21px;
+  font-family: sans-serif;
+  color: black;
+  margin-top: 10px;
+}
+
+
+.contact-input-1{
+  width: 650px;
+  height: 45px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+
+.contact-input-title-2{
+  font-size: 21px;
+  font-family: sans-serif;
+  color: black;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.contact-input-2{
+  width: 650px;
+  height: 45px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.contact-input-title-3{
+  font-size: 21px;
+  font-family: sans-serif;
+  color: black;
+}
+
+.textarea{
+  width: 650px;
+  height: 100px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.contact-btn{
+  width: 150px;
+  margin-top: 30px;
+}
+
+
+
+/* ==================================
+   ------- footer section site ---------
+  ==================================*/
+
+
+
+.page-footer{
+  border: 1px solid rgb(206, 193, 193);
+}
+
+
+.footer-down-heading{
+  font-size: 20px;
+
+}
+
+
+.footer-content-datalis {
+  font-size: 17px;
+  margin-top: 20px;
+}
+
+.footer-link{
+  font-size: 18px;
+}
+
+.footer-link:hover{
+  background-color: rgb(232, 238, 207);
+  padding: 0px 20px;
+}
+
+
+
+.footer-social-area img{
+  width: 40px;
+  border: 1px solid rgb(245, 237, 237);
+  border-radius: 150px;
+  margin-left: 30px;
+}
+
